@@ -1,0 +1,9 @@
+{
+    "Dashboard": true,
+    "RolePermission": true,
+    "User": true,
+    "Project": true,
+    "Program": true,
+    "Coordinator": true,
+    "Report": true
+}
